@@ -1,9 +1,10 @@
-ASP.net Mvc ile Meeting App projesi geliştridim. Bu yaptığım projem şu özellikleri içerir:
+I developed Meeting app with ASP.net MVC. My project contains the fallowing features:
 
-1- Sitenin ana sayfasında sizi lduğunuz saate göre selamalytan ve katılımcı sayısını gösteren bir anasayfa mevcuttur.
+1- My website's homepage features a greeting tailored to the current time and displays the number of participants
 
-2- Toplantıya katılım için başvuru kaydı formu ve buarda Form validation özelliğini kullandım.
+2- I have created an application registration form for participation in the meeting, and I have utilized the Form validation feature. 
 
-3- Kursa kaydını oluşturup ve geleceğini bildirdikten sonra diğer katılımcı listesini görebiliyoruz
+3- After registering for the course and indicating your attendance, you can view the list of other participants
 
-4- Katılım listesinden diğer katılımcıların detay sayfasına giderek bilgilerini görebiliyoruz.
+4- You can view the details of other participants from the participant details page.
+
