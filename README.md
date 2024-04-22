@@ -1,4 +1,4 @@
-ASP.net Mvc ile Meeting App projesi geliştridim. BU yaptığım projem şu özellikleri içerir:
+ASP.net Mvc ile Meeting App projesi geliştridim. Bu yaptığım projem şu özellikleri içerir:
 
 1- Sitenin ana sayfasında sizi lduğunuz saate göre selamalytan ve katılımcı sayısını gösteren bir anasayfa mevcuttut.
 2- Toplantıya katılım için başvuru kaydı formu ve buarda Form validation özelliğini kullandım.
